@@ -6,6 +6,6 @@
 //
 
 public struct ServerError: Decodable {
-	public let error: String
-	public let errno: Int
+    public let error: String
+    public let errno: Int
 }

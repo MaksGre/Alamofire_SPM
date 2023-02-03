@@ -5,6 +5,4 @@
 //  Created by m.grebenozhko on 30.01.2023.
 //
 
-final class MainScreenPresenter {
-
-}
+final class MainScreenPresenter {}

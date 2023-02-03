@@ -7,7 +7,4 @@
 
 import Alamofire
 
-final class NetworkService {
-
-    
-}
+final class NetworkService {}
