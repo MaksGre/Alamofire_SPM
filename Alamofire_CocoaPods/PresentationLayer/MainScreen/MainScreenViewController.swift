@@ -7,7 +7,9 @@
 
 import UIKit
 
-protocol IMainScreenViewController: AnyObject {}
+protocol IMainScreenViewController: AnyObject {
+    func update(with model: MainScreenViewModel)
+}
 
 final class MainScreenViewController: UIViewController, IMainScreenViewController {
 
@@ -20,11 +22,33 @@ final class MainScreenViewController: UIViewController, IMainScreenViewControlle
     override func viewDidLoad() {
         super.viewDidLoad()
 
-//        getData()
+        presenter?.viewDidLoad()
     }
 
-//    func getData() {
-//        let dataRequest = AF.request("https://dummy.restapiexample.com/api/v1/employees")
-//        print(dataRequest)
-//    }
+    // Mark: - Outlets
+
+    @IBOutlet private weak var codeLabel: UILabel!
+    @IBOutlet private weak var valueLabel: UILabel!
+    @IBOutlet private weak var descLabel: UILabel!
+    @IBOutlet private weak var imageView: UIImageView!
+
+    // Mark: - Actions
+
+    @IBAction private func didTapButton(_ sender: Any) {
+        presenter?.didTapButton()
+    }
+
+    // MARK: - Public
+
+    func update(with model: MainScreenViewModel) {
+        codeLabel.text = model.codeText
+        valueLabel.text = model.valueText
+        descLabel.text = model.descriptionText
+
+        var image: UIImage? = nil
+        if let model = model.imageData {
+            image = UIImage(data: model)
+        }
+        imageView.image = image
+    }
 }

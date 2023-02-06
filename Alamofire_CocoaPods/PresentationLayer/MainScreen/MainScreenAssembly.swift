@@ -16,13 +16,15 @@ final class MainScreenAssembly: IMainScreenAssembly {
     // MARK: - Private
 
     private lazy var networkService: INetworkService = Locator.networkService
+    private lazy var httpCodesService: IHttpCodesService = Locator.httpCodesService
 
     // MARK: - Public
 
     func assembly() -> UIViewController {
         let viewController = UIStoryboard.main.instantiateViewController(MainScreenViewController.self)
         let presenter = MainScreenPresenter(viewController: viewController,
-                                            networkService: networkService)
+                                            networkService: networkService,
+                                            httpCodesService: httpCodesService)
 
         viewController.presenter = presenter
 

@@ -8,5 +8,6 @@
 final class Locator {
 
     static let networkService: INetworkService = NetworkService()
+    static let httpCodesService: IHttpCodesService = HttpCodesService()
     static let mainScreenAssembly: IMainScreenAssembly = MainScreenAssembly()
 }

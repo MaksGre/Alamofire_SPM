@@ -13,6 +13,7 @@
 ## Obj-C/Swift specific
 *.xcworkspace
 *.generated.swift
+~$*
 
 ## Playgrounds
 
