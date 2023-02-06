@@ -7,4 +7,6 @@
 
 import Alamofire
 
-final class NetworkService {}
+protocol INetworkService: AnyObject {}
+
+final class NetworkService: INetworkService {}

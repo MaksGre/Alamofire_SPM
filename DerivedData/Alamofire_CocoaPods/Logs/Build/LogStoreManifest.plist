@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>25A4AC20-8938-41A8-8049-549189BB9650</key>
+		<key>01D37669-D17E-4B07-B56E-87E66309DFD2</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>25A4AC20-8938-41A8-8049-549189BB9650.xcactivitylog</string>
+			<string>01D37669-D17E-4B07-B56E-87E66309DFD2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Build Alamofire_CocoaPods</string>
 			<key>timeStartedRecording</key>
-			<real>697100432.932235</real>
+			<real>697114018.362463</real>
 			<key>timeStoppedRecording</key>
-			<real>697100433.84818006</real>
+			<real>697114022.05256999</real>
 			<key>title</key>
 			<string>Build Alamofire_CocoaPods</string>
 			<key>uniqueIdentifier</key>
-			<string>25A4AC20-8938-41A8-8049-549189BB9650</string>
+			<string>01D37669-D17E-4B07-B56E-87E66309DFD2</string>
 		</dict>
-		<key>A86A4D82-97C8-4CC5-91E2-4912AC123862</key>
+		<key>049953BF-BC4F-4A82-AF72-16E4AA5D64D2</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -49,7 +49,75 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>A86A4D82-97C8-4CC5-91E2-4912AC123862.xcactivitylog</string>
+			<string>049953BF-BC4F-4A82-AF72-16E4AA5D64D2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697351174.96520305</real>
+			<key>timeStoppedRecording</key>
+			<real>697351177.34302604</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>049953BF-BC4F-4A82-AF72-16E4AA5D64D2</string>
+		</dict>
+		<key>152CEAF7-D6D9-4254-9A45-891299B61D7A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>152CEAF7-D6D9-4254-9A45-891299B61D7A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697350696.29345095</real>
+			<key>timeStoppedRecording</key>
+			<real>697350699.46217203</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>152CEAF7-D6D9-4254-9A45-891299B61D7A</string>
+		</dict>
+		<key>17B1036A-2888-4F41-8ABF-D8B3ECCFB657</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>17B1036A-2888-4F41-8ABF-D8B3ECCFB657.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +134,15 @@
 			<key>signature</key>
 			<string>Build Alamofire_CocoaPods</string>
 			<key>timeStartedRecording</key>
-			<real>697110842.66189504</real>
+			<real>697351180.66088903</real>
 			<key>timeStoppedRecording</key>
-			<real>697110849.74327004</real>
+			<real>697351183.51298499</real>
 			<key>title</key>
 			<string>Build Alamofire_CocoaPods</string>
 			<key>uniqueIdentifier</key>
-			<string>A86A4D82-97C8-4CC5-91E2-4912AC123862</string>
+			<string>17B1036A-2888-4F41-8ABF-D8B3ECCFB657</string>
 		</dict>
-		<key>FBFB0390-5D59-467C-A716-BFE73A599C27</key>
+		<key>2218726E-4AEE-44B7-9B7E-9E605C1A6B1D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -83,7 +151,41 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>FBFB0390-5D59-467C-A716-BFE73A599C27.xcactivitylog</string>
+			<string>2218726E-4AEE-44B7-9B7E-9E605C1A6B1D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697349356.523592</real>
+			<key>timeStoppedRecording</key>
+			<real>697349360.90935898</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>2218726E-4AEE-44B7-9B7E-9E605C1A6B1D</string>
+		</dict>
+		<key>2B472EED-22CF-4285-9A7D-B59434D5EAF6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2B472EED-22CF-4285-9A7D-B59434D5EAF6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,13 +202,557 @@
 			<key>signature</key>
 			<string>Build Alamofire_CocoaPods</string>
 			<key>timeStartedRecording</key>
-			<real>697110787.53039896</real>
+			<real>697348122.00144196</real>
 			<key>timeStoppedRecording</key>
-			<real>697110789.99746096</real>
+			<real>697348143.49624598</real>
 			<key>title</key>
 			<string>Build Alamofire_CocoaPods</string>
 			<key>uniqueIdentifier</key>
-			<string>FBFB0390-5D59-467C-A716-BFE73A599C27</string>
+			<string>2B472EED-22CF-4285-9A7D-B59434D5EAF6</string>
+		</dict>
+		<key>2C652EB4-EB49-40BF-979D-065ED50F4278</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2C652EB4-EB49-40BF-979D-065ED50F4278.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697348307.18422103</real>
+			<key>timeStoppedRecording</key>
+			<real>697348310.71343994</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>2C652EB4-EB49-40BF-979D-065ED50F4278</string>
+		</dict>
+		<key>38633818-E150-4C20-B01E-FB0AE144ACA8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>38633818-E150-4C20-B01E-FB0AE144ACA8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697350897.81564105</real>
+			<key>timeStoppedRecording</key>
+			<real>697350900.703439</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>38633818-E150-4C20-B01E-FB0AE144ACA8</string>
+		</dict>
+		<key>42C93AF8-765A-4A89-AA68-AF3827D4FA7A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>42C93AF8-765A-4A89-AA68-AF3827D4FA7A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697350430.10462201</real>
+			<key>timeStoppedRecording</key>
+			<real>697350431.73517501</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>42C93AF8-765A-4A89-AA68-AF3827D4FA7A</string>
+		</dict>
+		<key>4312A8A3-F1EC-40FD-B5CE-7E96E3866A05</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4312A8A3-F1EC-40FD-B5CE-7E96E3866A05.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697350492.127424</real>
+			<key>timeStoppedRecording</key>
+			<real>697350493.72935605</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>4312A8A3-F1EC-40FD-B5CE-7E96E3866A05</string>
+		</dict>
+		<key>67E96FB6-C459-440D-A469-6E5667D9F5E6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>67E96FB6-C459-440D-A469-6E5667D9F5E6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697350932.52811098</real>
+			<key>timeStoppedRecording</key>
+			<real>697350934.72561204</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>67E96FB6-C459-440D-A469-6E5667D9F5E6</string>
+		</dict>
+		<key>6D2EED69-05C6-407A-968D-E5A38AEE90CB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6D2EED69-05C6-407A-968D-E5A38AEE90CB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697350786.79981399</real>
+			<key>timeStoppedRecording</key>
+			<real>697350790.98141098</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>6D2EED69-05C6-407A-968D-E5A38AEE90CB</string>
+		</dict>
+		<key>849A42D2-3FEA-40A4-A8AB-DDF50BE4DFE7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>849A42D2-3FEA-40A4-A8AB-DDF50BE4DFE7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697349444.70782995</real>
+			<key>timeStoppedRecording</key>
+			<real>697349444.96985698</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>849A42D2-3FEA-40A4-A8AB-DDF50BE4DFE7</string>
+		</dict>
+		<key>9A4CDA78-C97B-475A-BA5E-2E55FDC23DE5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9A4CDA78-C97B-475A-BA5E-2E55FDC23DE5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697348182.87153804</real>
+			<key>timeStoppedRecording</key>
+			<real>697348184.30622697</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>9A4CDA78-C97B-475A-BA5E-2E55FDC23DE5</string>
+		</dict>
+		<key>9AD332BA-0071-4495-BBD1-9B1D5920E0F0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9AD332BA-0071-4495-BBD1-9B1D5920E0F0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697350456.84231997</real>
+			<key>timeStoppedRecording</key>
+			<real>697350458.199265</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>9AD332BA-0071-4495-BBD1-9B1D5920E0F0</string>
+		</dict>
+		<key>A288E00F-A000-4FEA-992A-F5B7EF9F5B5C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A288E00F-A000-4FEA-992A-F5B7EF9F5B5C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697350728.44002795</real>
+			<key>timeStoppedRecording</key>
+			<real>697350729.83498895</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>A288E00F-A000-4FEA-992A-F5B7EF9F5B5C</string>
+		</dict>
+		<key>A9335682-C184-4A5E-8D0D-2B445601CFCC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A9335682-C184-4A5E-8D0D-2B445601CFCC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697348198.53858697</real>
+			<key>timeStoppedRecording</key>
+			<real>697348204.81813705</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>A9335682-C184-4A5E-8D0D-2B445601CFCC</string>
+		</dict>
+		<key>B6C8261E-A057-4446-95CD-46A161F5766E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B6C8261E-A057-4446-95CD-46A161F5766E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697349514.72480702</real>
+			<key>timeStoppedRecording</key>
+			<real>697349518.30552197</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>B6C8261E-A057-4446-95CD-46A161F5766E</string>
+		</dict>
+		<key>BE959813-4102-4CFC-92FA-52C07F833959</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BE959813-4102-4CFC-92FA-52C07F833959.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697350520.63789594</real>
+			<key>timeStoppedRecording</key>
+			<real>697350523.42827404</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>BE959813-4102-4CFC-92FA-52C07F833959</string>
+		</dict>
+		<key>C08DE529-C027-4FD6-9B4E-9C3733CB990C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C08DE529-C027-4FD6-9B4E-9C3733CB990C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697349381.50698495</real>
+			<key>timeStoppedRecording</key>
+			<real>697349381.76161599</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>C08DE529-C027-4FD6-9B4E-9C3733CB990C</string>
+		</dict>
+		<key>CD1801EE-6D3A-4661-8B98-F64B2DCA36AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CD1801EE-6D3A-4661-8B98-F64B2DCA36AF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697350914.63301003</real>
+			<key>timeStoppedRecording</key>
+			<real>697350919.59593999</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>CD1801EE-6D3A-4661-8B98-F64B2DCA36AF</string>
+		</dict>
+		<key>EB5A1C77-BDA3-4C42-A182-5CA3983C65F1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB5A1C77-BDA3-4C42-A182-5CA3983C65F1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alamofire_CocoaPods project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alamofire_CocoaPods</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>timeStartedRecording</key>
+			<real>697350384.72038496</real>
+			<key>timeStoppedRecording</key>
+			<real>697350390.72993398</real>
+			<key>title</key>
+			<string>Build Alamofire_CocoaPods</string>
+			<key>uniqueIdentifier</key>
+			<string>EB5A1C77-BDA3-4C42-A182-5CA3983C65F1</string>
 		</dict>
 	</dict>
 </dict>

@@ -7,8 +7,16 @@
 
 import UIKit
 
-final class MainScreenViewController: UIViewController {
+protocol IMainScreenViewController: AnyObject {}
 
+final class MainScreenViewController: UIViewController, IMainScreenViewController {
+
+    // MARK: - Public
+
+    var presenter: IMainScreenPresenter?
+
+    // MARK: - Override methods
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
