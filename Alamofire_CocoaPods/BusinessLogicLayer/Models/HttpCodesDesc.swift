@@ -8,5 +8,5 @@
 
 struct HttpCodesDesc {
     let eng: String
-    let ru: String
+    let rus: String
 }

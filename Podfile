@@ -10,5 +10,6 @@ target 'Alamofire_CocoaPods' do
   pod 'SwiftLint'
   pod 'SnapKit'
   pod 'Alamofire'
+  pod 'Swinject'
   pod 'R.swift', '~> 6.0'
 end

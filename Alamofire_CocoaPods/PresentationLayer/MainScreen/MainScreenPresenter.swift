@@ -33,6 +33,7 @@ final class MainScreenPresenter: IMainScreenPresenter {
     // MARK: - Public
 
     func viewDidLoad() {
+        viewController.updateProgressIndicatorState(isHidden: false)
         let code = httpCodesService.getRandomCode()
         networkService.getImage(code: code) { [weak self] result in
             guard let self = self else { return }
@@ -45,6 +46,7 @@ final class MainScreenPresenter: IMainScreenPresenter {
             }
             DispatchQueue.main.async {
                 self.viewController.update(with: model)
+                self.viewController.updateProgressIndicatorState(isHidden: true)
             }
         }
     }
@@ -59,7 +61,7 @@ final class MainScreenPresenter: IMainScreenPresenter {
         let httpCodesDesc = httpCodesService.getCodeDesc(code)
         let codeText = R.string.texts.httpCode() + code.description
         let valueText = R.string.texts.codeValue() + httpCodesDesc.eng
-        let descriptionText = R.string.texts.codeDesc() + httpCodesDesc.ru
+        let descriptionText = R.string.texts.codeDesc() + httpCodesDesc.rus
 
         return MainScreenViewModel(imageData: imageData,
                                    codeText: codeText,

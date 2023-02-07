@@ -6,12 +6,18 @@
 //
 
 import UIKit
+import SnapKit
 
 protocol IMainScreenViewController: AnyObject {
     func update(with model: MainScreenViewModel)
+    func updateProgressIndicatorState(isHidden: Bool)
 }
 
 final class MainScreenViewController: UIViewController, IMainScreenViewController {
+
+    // MARK: - Private
+
+    private let progressIndicator = ProgressIndicator()
 
     // MARK: - Public
 
@@ -22,6 +28,7 @@ final class MainScreenViewController: UIViewController, IMainScreenViewControlle
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        setupProgressIndicator()
         presenter?.viewDidLoad()
     }
 
@@ -50,5 +57,21 @@ final class MainScreenViewController: UIViewController, IMainScreenViewControlle
             image = UIImage(data: model)
         }
         imageView.image = image
+    }
+
+    func updateProgressIndicatorState(isHidden: Bool) {
+        isHidden
+        ? progressIndicator.hide()
+        : progressIndicator.show()
+    }
+
+    // MARK: - Private
+
+    private func setupProgressIndicator() {
+        view.addSubview(progressIndicator)
+
+        progressIndicator.snp.makeConstraints {
+            $0.center.equalToSuperview()
+        }
     }
 }

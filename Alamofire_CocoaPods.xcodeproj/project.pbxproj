@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1D08E32D5FFEC539735669AC /* Pods_Alamofire_CocoaPods.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88E311CBD37FB36D4EEACE82 /* Pods_Alamofire_CocoaPods.framework */; };
+		8035854A29926BCD00E10C2C /* ProgressIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8035854929926BCD00E10C2C /* ProgressIndicator.swift */; };
 		8046C4092990B81B0041DC28 /* UIStoryboard+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8046C4082990B81B0041DC28 /* UIStoryboard+Extension.swift */; };
 		8046C40D2990B96E0041DC28 /* R.generated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8046C40C2990B96E0041DC28 /* R.generated.swift */; };
 		8046C40F2990BA1E0041DC28 /* StoryBoards.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8046C40E2990BA1E0041DC28 /* StoryBoards.strings */; };
@@ -30,6 +31,7 @@
 
 /* Begin PBXFileReference section */
 		468592991F8FA834B80A0A15 /* Pods-Alamofire_CocoaPods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Alamofire_CocoaPods.debug.xcconfig"; path = "Target Support Files/Pods-Alamofire_CocoaPods/Pods-Alamofire_CocoaPods.debug.xcconfig"; sourceTree = "<group>"; };
+		8035854929926BCD00E10C2C /* ProgressIndicator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgressIndicator.swift; sourceTree = "<group>"; };
 		8046C4082990B81B0041DC28 /* UIStoryboard+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIStoryboard+Extension.swift"; sourceTree = "<group>"; };
 		8046C40C2990B96E0041DC28 /* R.generated.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = R.generated.swift; sourceTree = "<group>"; };
 		8046C40E2990BA1E0041DC28 /* StoryBoards.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = StoryBoards.strings; sourceTree = "<group>"; };
@@ -66,6 +68,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8035854829926BA400E10C2C /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				8035854929926BCD00E10C2C /* ProgressIndicator.swift */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
 		8046C4072990B80F0041DC28 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
@@ -111,6 +121,7 @@
 				80CBDF5B2987889800E1DAFF /* Assets.xcassets */,
 				80B729A32987F350003E4BE0 /* MainScreen */,
 				8046C4072990B80F0041DC28 /* Extensions */,
+				8035854829926BA400E10C2C /* Common */,
 				8046C40B2990B8E10041DC28 /* Resources */,
 			);
 			path = PresentationLayer;
@@ -352,6 +363,7 @@
 				8046C42129912AC40041DC28 /* MainScreenViewModel.swift in Sources */,
 				8046C41A2990D1850041DC28 /* HttpCodesService.swift in Sources */,
 				8046C4092990B81B0041DC28 /* UIStoryboard+Extension.swift in Sources */,
+				8035854A29926BCD00E10C2C /* ProgressIndicator.swift in Sources */,
 				80FE7DD6298D12FE00C1B435 /* Locator.swift in Sources */,
 				80CBDF572987889300E1DAFF /* MainScreenViewController.swift in Sources */,
 				80CBDF532987889300E1DAFF /* AppDelegate.swift in Sources */,
