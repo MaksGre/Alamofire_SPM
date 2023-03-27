@@ -5,6 +5,7 @@
 //  Created by m.grebenozhko on 30.01.2023.
 //
 
+import Foundation
 import Alamofire
 
 typealias GetImageResponse = (Result<Data, Error>) -> Void
